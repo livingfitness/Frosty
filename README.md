@@ -94,12 +94,6 @@ For a more detailed overview, visit [frostyapp.io](https://www.frostyapp.io/).
 > [!IMPORTANT]
 > Frosty uses [MobX](https://mobx.netlify.app/) for state management. Please refer to the documentation about code generation, otherwise your changes within MobX stores may not be applied.
 
-## Donate
-
-If you appreciate my work and would like to donate/tip, you can through:
-
-- [GitHub Sponsors](https://github.com/sponsors/tommyxchow)
-- [Buy Me a Coffee](https://www.buymeacoffee.com/tommychow)
 
 Otherwise, downloading Frosty, leaving a review, or starring this repository is more than enough to show support. Thank you!
 
