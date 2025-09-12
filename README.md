@@ -1,38 +1,5 @@
 ![Showcase of the Frosty app with screenshots in a masonry grid](https://github.com/tommyxchow/frosty/assets/54859075/09178dcc-2fd2-4618-8076-502719159424)
 
-<p>
-  <a href="https://github.com/tommyxchow/frosty/actions/workflows/ci.yml">
-    <img
-      alt="Badge showing the CI status."
-      src="https://github.com/tommyxchow/frosty/actions/workflows/ci.yml/badge.svg"
-    />
-  </a>
-  <a href="https://github.com/tommyxchow/frosty/issues">
-    <img
-      alt="Badge showing the number of open issues."
-      src="https://img.shields.io/github/issues/tommyxchow/frosty"
-    />
-  </a>
-  <a href="https://github.com/tommyxchow/frosty/commits">
-    <img
-      alt="Badge showing the date of the last commit."
-      src="https://img.shields.io/github/last-commit/tommyxchow/frosty"
-    />
-  </a>
-  <a href="https://github.com/tommyxchow/frosty/blob/main/LICENSE">
-    <img
-      alt="Badge showing the current license of the repo."
-      src="https://img.shields.io/github/license/tommyxchow/frosty"
-    />
-  </a>
-  <a href="https://github.com/tommyxchow/frosty/releases/latest">
-    <img
-      alt="Badge showing the version of the latest release."
-      src="https://img.shields.io/github/v/release/tommyxchow/frosty"
-    />
-  </a>
-</p>
-
 ## Download
 
 <p>
